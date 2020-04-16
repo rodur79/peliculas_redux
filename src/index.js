@@ -8,7 +8,7 @@ import { createGlobalStyle } from "styled-components";
 import configureStore from './redux/configureStore';
 
 const GlobalStyle = createGlobalStyle`
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Montserrat|Rock+Salt|Cinzel&display=swap');
+url('https://fonts.googleapis.com/css?family=Amatic+SC|Montserrat|Rock+Salt|Cinzel&display=swap');
   body {
     margin:0;
   }
